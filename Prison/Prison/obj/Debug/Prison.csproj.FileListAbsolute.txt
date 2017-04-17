@@ -1,0 +1,9 @@
+C:\Users\Dexp\Desktop\Prison_bot\Prison\Prison\bin\Debug\Prison.exe.config
+C:\Users\Dexp\Desktop\Prison_bot\Prison\Prison\bin\Debug\Prison.exe
+C:\Users\Dexp\Desktop\Prison_bot\Prison\Prison\bin\Debug\Prison.pdb
+C:\Users\Dexp\Desktop\Prison_bot\Prison\Prison\obj\Debug\Prison.csprojResolveAssemblyReference.cache
+C:\Users\Dexp\Desktop\Prison_bot\Prison\Prison\obj\Debug\Prison.Form1.resources
+C:\Users\Dexp\Desktop\Prison_bot\Prison\Prison\obj\Debug\Prison.Properties.Resources.resources
+C:\Users\Dexp\Desktop\Prison_bot\Prison\Prison\obj\Debug\Prison.csproj.GenerateResource.Cache
+C:\Users\Dexp\Desktop\Prison_bot\Prison\Prison\obj\Debug\Prison.exe
+C:\Users\Dexp\Desktop\Prison_bot\Prison\Prison\obj\Debug\Prison.pdb
